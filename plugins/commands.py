@@ -43,16 +43,16 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/papa_bol_sakteho'),
+						InlineKeyboardButton("owner", url="https://t.me/parkjiminparkyuku")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://t.me/about_ajeet"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/Ajsites2324/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/about_ajeet")
 
                     ]
 					
@@ -66,15 +66,15 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/papa_bol_sakteho'),
+						InlineKeyboardButton("☻︎owner☻︎", url="https://t.me/parkjiminparkyuku"),
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://t.me/about_ajeet")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/about_ajeet")
 
                     ]
 					
@@ -91,14 +91,14 @@ async def help(bot, cmd):
 		reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
-					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/GreyMatter_bots")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/papa_bol_sakteho'),
+					InlineKeyboardButton("owner", url="https://t.me/parkjiminparkyuku"),
+					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/about_ajeet")
 					
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+					InlineKeyboardButton("🔗Source Code", url="https://t.me/about_ajeet"),
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/Ajsites2324/Instagram-Bot")
 				]
 			]
 			)
@@ -113,16 +113,16 @@ async def stop(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/papa_bol_sakteho'),
+						InlineKeyboardButton("❤️❤️owner❤️❤️", url="https://t.me/parkjiminparkyuku")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+                        InlineKeyboardButton("🔗Source Code", url="https://t.me/about_ajeet"),
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/Ajsites/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/about_ajeet")
 
                     ]
 					
